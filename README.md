@@ -18,7 +18,7 @@
 - Copy public folders & files to team drives
 - [Host it to Railway]
 - [Host it to Qovery]
-- [Host it to heroku](https://github.com/MsGsuite/CloneBot_Heroku)
+- [Host it to heroku](https://github.com/AJ786-GITHUB/CloneBot_Heroku)
 
 #### ❌ Drawbacks
 - Does not support files upload (only copy)
@@ -33,7 +33,7 @@ Note : there are hidden features, check at the source code of the bot to find th
 
 ## 💠 Host the bot on your computer
 
---> https://github.com/MsGsuite/CloneBot
+--> https://github.com/GITHUB/CloneBot
 <br/><br/>
 
 ## 📱 Run the bot on your phone using termux
