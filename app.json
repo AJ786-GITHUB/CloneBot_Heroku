@@ -1,11 +1,11 @@
 {
 	"name": "CloneBot",
 	"description": "CloneBot",
-	"repository": "https://github.com/MsGsuite/CloneBot",
+	"repository": "https://github.com/AJ786-GITHUB/CloneBot",
 	"keywords": ["Gclone","TG"],
 	"repository": "https://github.com/AJ786-GITHUB/CloneBot",
         "website": "https://t.me/aj786_at",
-        "success_url": "https://github.com/MsGsuite/CloneBot/blob/master/README.md",
+        "success_url": "https://github.com/AJ786-GITHUB/CloneBot/blob/master/README.md",
 	"env": {
 		"telegram_token": {
 			"description": "Get from Telegram @Botfather."
